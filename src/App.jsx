@@ -30,7 +30,7 @@ const ModalPage = (props) => {
             top: "60px",
             left: "35%",
             width: "30%",
-            height: "80%",
+            height: "50%",
             border: "1px solid #ccc",
             background: "#fff",
             overflow: "auto",
